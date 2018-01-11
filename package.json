@@ -12,7 +12,6 @@
     "body-parser": "~1.17.1",
     "bluebird": "~3.5.0",
     "uuid": "~3.0.1",
-    "cors": "~2.8.3",
     "jsonwebtoken": "~7.3.0",
     "bcrypt-nodejs": "0.0.3",
     "node-cache": "~4.1.1"
@@ -21,6 +20,5 @@
     "jasmine": "~2.5.3",
     "request": "~2.79.0"
   },
-  "author": "Ronnie Mitra",
-  "license": "BSD-2-Clause"
+  "author": "Ronnie Mitra"
 }
