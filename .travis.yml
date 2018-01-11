@@ -10,4 +10,4 @@ services:
 after_success:
   - docker build -t rmitra/rapido-authentication:1.0 .
   - docker login -u "$DOCKER_USERNAME" -p "$DOCKER_PASSWORD"
-  - docker push 
+  - docker push rmitra/rapido-authentication
